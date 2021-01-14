@@ -1,8 +1,9 @@
 # Auto Text Effect
 
-> 
+> Auto Text Effect on Vanilla JS
 
-### [Demo]()
+### [Demo](http://auto-text-effect-ab.surge.sh)
+[![IMAGE ALT TEXT HERE](./uploads/screen.png)](https://skr.sh/v67VrWsHb9V?a)
 
 ### Get started
 
